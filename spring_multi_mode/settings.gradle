@@ -1,0 +1,4 @@
+rootProject.name = 'spring-multi-mode'
+
+include 'library'
+include 'application'
