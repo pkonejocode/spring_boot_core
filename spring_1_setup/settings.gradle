@@ -1,4 +1,0 @@
-rootProject.name = 'spring_1_setup'
-
-include 'library'
-include 'application'
